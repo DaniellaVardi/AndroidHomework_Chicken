@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private AppCompatImageView[] ship_IMG_hearts;
     private int count = 0;
     private GameManager gameManager;
-    private final int DELAY = 1000;
+    private final int DELAY = 500;
     private FloatingActionButton left_btn;
     private FloatingActionButton right_btn;
 
